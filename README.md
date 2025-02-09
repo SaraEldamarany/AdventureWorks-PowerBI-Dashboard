@@ -34,17 +34,6 @@ This project focuses on building an interactive and insightful **Power BI dashbo
 
 ---
 
-## DAX Measures
-- Created a dedicated **DAX table** to manage and centralize all key measures.
-- Developed calculations for:
-  - **Sales Revenue**
-  - **Total Orders**
-  - **Customer Demographics**
-  - **Yearly Income by Occupation**
-  - **Order Trends by Date**
-
----
-
 ## Visualizations & Insights
 - **Top 5 Countries by Sales Performance** 
   Highlighting the countries generating the highest revenue.
@@ -63,3 +52,5 @@ This project focuses on building an interactive and insightful **Power BI dashbo
 
 - **Total Yearly Income by Occupation** 
   Evaluating income trends across different professional roles.
+
+

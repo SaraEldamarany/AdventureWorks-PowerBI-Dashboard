@@ -53,4 +53,13 @@ This project focuses on building an interactive and insightful **Power BI dashbo
 - **Total Yearly Income by Occupation** 
   Evaluating income trends across different professional roles.
 
+![Overview Dashboard](Overview.png)
+
+---
+![Product Dashboard](Product.png)
+
+---
+![Customer Dashboard](Customer.png)
+
+
 
